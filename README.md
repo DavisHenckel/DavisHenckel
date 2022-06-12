@@ -1,5 +1,5 @@
 ## 👋 Hi There  
-I'm Davis and I'm passionate about software development, scripting, automation, CICD, project management, and security. I will be graduating with a BS in Computer Science from Oregon State University in June, 2022.
+I'm Davis and I'm passionate about software development, scripting, automation, CICD, project management, and security. I recently completed a BS in Computer Science from Oregon State University.
 ### Favorite Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/powershell-2f434d?style=for-the-badge&logo=powershell&logoColor=256db8)
