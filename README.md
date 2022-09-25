@@ -8,6 +8,6 @@ I'm Davis and I'm passionate about software development, scripting, automation, 
 ![C](https://img.shields.io/badge/c-3670A0?style=for-the-badge&logo=c&logoColor=ebecf0)
 ![Dart](https://img.shields.io/badge/dart-1b2631?style=for-the-badge&logo=dart&logoColor=019ed6)
 ![Ruby](https://img.shields.io/badge/ruby-f3cc9d?style=for-the-badge&logo=ruby&logoColor=e80e12)
-![Go](https://img.shields.io/badge/go-29beb0?style=for-the-badge&logo=go&logoColor=ffffff)
+![Go](https://img.shields.io/badge/go-1D857B?style=for-the-badge&logo=go&logoColor=FFFFFF)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DavisHenckel&show_icons=true&locale=en&theme=github_dark&count_private=true&hide=stars" alt="DavisHenckel" /></p>
 
